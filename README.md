@@ -5,7 +5,7 @@ tenemos un programa para cada version de revit.
 
 | AscendBIMTools | Link de cada version |
 | - | -- |
-| v.2021 | [github](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2021) |
-| v.2022 | [github](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2022) |
-| v.2023 | [github](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2023) |
-| v.2024 | [github](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2024) |
+| v.2021 | [AscendBIMTools2021](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2021) |
+| v.2022 | [AscendBIMTools2022](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2022) |
+| v.2023 | [AscendBIMTools2023](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2023) |
+| v.2024 | [AscendBIMTools2024](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2024) |
