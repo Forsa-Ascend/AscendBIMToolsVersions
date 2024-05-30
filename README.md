@@ -1,9 +1,14 @@
 ![EBOOKLogo Ascend-Positivo@3x-8](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/assets/170473047/e6c10407-9bef-4fee-b595-0639aac13679)
 Ascend BIM Tools es un plugin para Revit que añade una cinta de herramientas con funciones adicionales, facilitando tareas específicas que no están disponibles en el software original. Aquí puedes descargar los instaladores para cada versión de Revit y obtener las herramientas necesarias para optimizar tus proyectos BIM. Para gestionar tu licencia, contacta a Hugo Gómez en hugo.gomez@ascend.net.co.
 
-Tenemos un programa para cada version de revit.
+## Instalación
+1. Descomprimir el archivo .rar en una carpeta.
+2. Abrir el archivo con el nombre "setup".
+3. 
 
-| AscendBIMTools | Link de cada version |
+## Tenemos un programa para cada versión de revit.
+
+| AscendBIMTools | Link de cada versión |
 | - | -- |
 | v.2021 | [AscendBIMTools2021](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2021) |
 | v.2022 | [AscendBIMTools2022](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2022) |
