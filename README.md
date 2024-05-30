@@ -4,7 +4,18 @@ Ascend BIM Tools es un plugin para Revit que añade una cinta de herramientas co
 ## Instalación
 1. Descomprimir el archivo .rar en una carpeta.
 2. Abrir el archivo con el nombre "setup".
-3. 
+- ![img1](Assets/tutorial1.png)
+3. Se va abrir el asistente del instalador, vamos a clickear "siguiente".
+- ![img2](Assets/tutorial2.png)
+4. Elegimos en que carpeta deseamos instalarlo ya seleccionado le clickeamos "siguiente".
+- ![img3](Assets/tutorial3.png)
+5. Procedemos con la instalación del programa le clickeamos "siguiente".
+- ![img4](Assets/tutorial4.png)
+6. Ya con el programa instalado finalizamos el proceso clickeando "cerrar".
+- ![img4](Assets/tutorial5.png)
+
+## Licencia
+Para solicitar tu licencia contacta a Hugo Gomez en hugo.gomez@ascend.net.co.
 
 ## Tenemos un programa para cada versión de revit.
 
