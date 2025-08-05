@@ -1,8 +1,8 @@
 {
     "Revit2023": {
-        "Version": "1.0.3",
+        "Version": "1.1.0",
         "DownloadUrl": "https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/download/v.2023/AscendBimTools2023.zip",
-        "ReleaseNotes": "Actualizacion de Presupuestos Coninsa",
+        "ReleaseNotes": "Eliminar Botón Auto Psets Global",
         "ToolsVersions": {
 			"VisIdeal": "1.0.0",
             "Cabidas": "1.0.0", 
