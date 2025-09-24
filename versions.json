@@ -25,7 +25,7 @@
             "PresupuestosConinsa": "1.0.1",
             "HolcimMateriales": "1.0.0",
             "AutoPsets": "1.0.0",
-            "CheckerConinsa": "1.0.1"
+            "CheckerConinsa": "1.0.2"
         }
     },
     "Revit2024": {
@@ -51,10 +51,10 @@
             "MonoCabida": "1.0.0",
             "Centroides": "1.0.0",
             "PresupuestosByB": "1.0.0",
-            "PresupuestosConinsa": "1.0.0",
+            "PresupuestosConinsa": "1.0.1",
             "HolcimMateriales": "1.0.0",
             "AutoPsets": "1.0.0",
-            "CheckerConinsa": "1.0.0"
+            "CheckerConinsa": "1.0.2"
         }
     },
     "Revit2025": {
