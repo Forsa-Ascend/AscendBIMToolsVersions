@@ -25,7 +25,7 @@
             "PresupuestosConinsa": "1.0.4",
             "HolcimMateriales": "1.0.0",
             "AutoPsets": "1.0.0",
-            "CheckerConinsa": "1.0.4"
+            "CheckerConinsa": "1.0.5"
         }
     },
     "Revit2024": {
@@ -54,7 +54,7 @@
             "PresupuestosConinsa": "1.0.4",
             "HolcimMateriales": "1.0.0",
             "AutoPsets": "1.0.0",
-            "CheckerConinsa": "1.0.4"
+            "CheckerConinsa": "1.0.5"
         }
     },
     "Revit2025": {
